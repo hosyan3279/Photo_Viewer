@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "アプリ1 (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "アプリ1 (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
